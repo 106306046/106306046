@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Derrick  
-- 👀 I’m interested in front
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... timmy199922@gmail.com
 
 <!---

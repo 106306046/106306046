@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Derrick  
+- 👋 Hi, I’m Derrick
+- 💻 Here is my gist https://gist.github.com/106306046
 - 📫 How to reach me ... timmy199922@gmail.com
 
 <!---
